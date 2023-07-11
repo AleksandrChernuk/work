@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AleksandrChernuk/work.git/static/css/main.09bdf5a7.css",
+    "main.js": "/AleksandrChernuk/work.git/static/js/main.e8d72152.js",
+    "index.html": "/AleksandrChernuk/work.git/index.html",
+    "main.09bdf5a7.css.map": "/AleksandrChernuk/work.git/static/css/main.09bdf5a7.css.map",
+    "main.e8d72152.js.map": "/AleksandrChernuk/work.git/static/js/main.e8d72152.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09bdf5a7.css",
+    "static/js/main.e8d72152.js"
+  ]
+}
